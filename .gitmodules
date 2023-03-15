@@ -1,0 +1,3 @@
+[submodule "Bulk_RNAseq_Course_Base"]
+	path = Bulk_RNAseq_Course_Base
+	url = https://github.com/bioinformatics-core-shared-training/Bulk_RNAseq_Course_Base.git
