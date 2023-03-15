@@ -13,11 +13,11 @@
 * Sina Beier - MRC Toxicology Unit, University of Cambridge
 * Raquel Manzano Garcia - Cancer Research UK Cambridge Institute
 * Jonathon Price - 
-* Jiayin
+* Jiayin Hong -
 
 **Helpers**
-* Ulrika
-*
+* Ulrika Yuan - 
+* Hugo Tavares - 
 
 
 ## Outline
