@@ -118,7 +118,7 @@ QC](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_introduction.html) - Sina Beier
     
 13:30 - 14:30 Lunch
 
-14:30 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_introduction.html) - Ashley Sawle
+14:30 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_introduction.html) - Abbi Edwards
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.pdf))  
 <!--    - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_COntrol_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.Solutions.pdf))    -->
@@ -158,7 +158,7 @@ R](Bulk_RNAseq_Course_Base/Markdowns/06_Introduction_to_RNAseq_Analysis_in_R.htm
 
 9.30 - 9.45 - [Recap of Day 1 and 2](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Analysis_of_RNA-seq_data _day3recap.pdf) - Abbi Edwards
 
-9.45 - 12.30 [Annotation and Visualisation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation.html) - Raquel
+9.45 - 12.30 [Annotation and Visualisation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation.html) - Raquel Manzano Garcia
  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation_Solutions.html)   -->
  <!-- - [live script](live_scripts/AandV.R) -->
 
