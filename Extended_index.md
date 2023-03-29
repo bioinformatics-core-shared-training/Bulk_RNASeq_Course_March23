@@ -1,5 +1,5 @@
 # Introduction to RNA-seq data analysis - Extended Materials
-#### Taught remotely
+#### Taught hybrid
 #### Bioinformatics Training, Craik-Marshall Building, Downing Site, University of Cambridge
 
 ![](Bulk_RNAseq_Course_Base/images/CRUK_Cambridge_Major Centre logo.jpg)
@@ -13,13 +13,18 @@ during the taught course.
     - [Downloading files from SRA](Bulk_RNAseq_Course_Base/Markdowns/S1_Getting_raw_reads_from_SRA.html)
 
 2. Raw read file format and QC
-    - [Using Trimmomatic to remove adapter contamination from reads](Bulk_RNAseq_Course_Base/Markdowns/S3_Trimming_Reads.html)
+    - [Using Trimmomatic to remove adapter contamination from reads](Bulk_RNAseq_Course_Base/Markdowns/S2_Trimming_Reads.html)
+    
+3. Alignment with HISAT2
+    - [Using HISAT2 for Alignment - Slides](Bulk_RNAseq_Course_Base/Markdowns/S3_Alignment_with_HISAT2_introduction.html)
+    - [Using HISAT2 for Alignment - Practical](Bulk_RNAseq_Course_Base/Markdowns/S3_Alignment_with_HISAT2_practical.html)
+    - [Practical Solutions](Bulk_RNAseq_Course_Base/Markdowns/S3_Alignment_with_HISAT2_practical.Solutions.html)
 
-3. Gene expression quantification
+4. Gene expression quantification
     - [Using Subread to count aligned reads](Bulk_RNAseq_Course_Base/Markdowns/S8_Read_Counts_with_SubRead.html)
             - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/S8_Read_Counts_with_SubRead.Solutions.html)
 
-3. Data exploration - extended 
+5. Data exploration - extended 
     - [A brief intro to the tidyverse](Bulk_RNAseq_Course_Base/Markdowns/S4_A_brief_intro_to_dplyr.html)  
     - A more extended tidyverse course can be found here: 
         [Introduction to R](https://bioinformatics-core-shared-training.github.io/r-intro/)
